@@ -1,0 +1,5 @@
+You can create a codespace on GitHub.com, in Visual Studio Code, or by using GitHub CLI. Use the tabs in this article to display instructions for each of these ways of creating a codespace.
+
+You can use GitHub Codespaces on your personal GitHub.com account, with the quota of free use included each month for accounts on the Free and Pro plans. You can continue using GitHub Codespaces beyond your monthly included storage and compute usage by providing payment details and setting a spending limit. For more information, see "About billing for GitHub Codespaces."
+
+Organizations can enable members and outside collaborators to create and use codespaces at the organization's expense. For more information, see "Choosing who owns and pays for codespaces in your organization."
